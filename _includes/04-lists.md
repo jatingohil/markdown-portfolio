@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+#### List of few of my fav things
+- Pizza
+- Books
+  - Zero to One 
+  - The MOM Test
